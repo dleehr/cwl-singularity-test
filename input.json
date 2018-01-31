@@ -1,0 +1,6 @@
+{
+  "paired": false,
+  "reads": [
+    {"class":"File", "path":"/home/dcl9/dc_sample_data/untrimmed_fastq/SRR097977.fastq"}
+  ]
+}
